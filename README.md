@@ -1,3 +1,15 @@
+#  I am thrilled to present my latest creation, an E-Commerce web application built from scratch, which is fully interactive
+#   tech stack -
+    frontend- React.js, sass.
+    Backend- Nod.js, Axios.
+    database: strapi
+
+access the client side  from - https://lnkd.in/gAjqAbRM
+
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
